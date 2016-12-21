@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2015\Projects\MoveFile\MoveFile\bin\Debug\MoveFile.exe.config
+c:\users\student\documents\visual studio 2015\Projects\MoveFile\MoveFile\obj\Debug\MoveFile.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\MoveFile\MoveFile\obj\Debug\MoveFile.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\MoveFile\MoveFile\obj\Debug\MoveFile.csproj.GenerateResource.Cache
+c:\Users\Student\documents\visual studio 2015\Projects\MoveFile\MoveFile\bin\Debug\MoveFile.exe
+c:\Users\Student\documents\visual studio 2015\Projects\MoveFile\MoveFile\bin\Debug\MoveFile.pdb
+c:\Users\Student\documents\visual studio 2015\Projects\MoveFile\MoveFile\obj\Debug\MoveFile.exe
+c:\Users\Student\documents\visual studio 2015\Projects\MoveFile\MoveFile\obj\Debug\MoveFile.pdb
